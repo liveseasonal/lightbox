@@ -43,6 +43,11 @@ a {
     filter:alpha(opacity=50);
     -moz-opacity:0.5;
     -khtml-opacity: 0.5;
-    opacity: 0.5;
+    opacity: 0.9;
     z-index: 10000;
+}
+
+#overlay img {
+  height: 100%;
+  width: 100%;
 }

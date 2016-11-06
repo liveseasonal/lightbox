@@ -32,8 +32,8 @@ $overlay.show();
 
 
 //3. When overlay is clicked 
-// $("#overlay").click(function(){
-//   //3.1 Hide the overlay
-//   $("#overlay").hide();
-// });
+$("#overlay").click(function(){
+  //3.1 Hide the overlay
+  $("#overlay").hide();
+});
   
